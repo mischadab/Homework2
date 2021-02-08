@@ -1,4 +1,4 @@
-# UTOR-Portfolio
+# Portfolio
 https://mischadab.github.io/Portfolio/
 
 This is a responsive portfoliio including an About Me, Portfolio with links, and a Contact page. This page utilzed bootstrap components to create the body of each page.
