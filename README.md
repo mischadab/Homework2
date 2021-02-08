@@ -1,5 +1,7 @@
 # UTOR-Portfolio
-For this assignment we created our beginning stages of our personal webpage portfolios while properly utilizing Bootstrap components. This included an about me, contact me and portfolio page. Each page needed to include a NavBar with working links, and each page is also required to be responsive for all screen sizes. 
+https://mischadab.github.io/Portfolio/
+
+This is a responsive portfoliio including an About Me, Portfolio with links, and a Contact page. This page utilzed bootstrap components to create the body of each page.
 
 ![AboutMe](Assets/AboutMe.png?raw=true)
 ![ContactMe](Assets/ContactMe.png?raw=true)
